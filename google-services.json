@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833750777725",
+    "project_id": "chatapp-94039",
+    "storage_bucket": "chatapp-94039.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833750777725:android:a4837cdb52e5f5df499614",
+        "android_client_info": {
+          "package_name": "com.reactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833750777725-3cl1d74as3n0b37b6i1gb6sk74hl3pik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAzlyjP4ncfY3y5sJAa54Qtq4SmpobnSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833750777725-3cl1d74as3n0b37b6i1gb6sk74hl3pik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
